@@ -1,4 +1,6 @@
-
+#### Plots 4 of Course Project 1 for the Coursera course "Exploratory Data Analysis"
+#### Date: January 11, 2014
+#### Author: fpromero (paskualf)
 
 # Loading data
 data <- read.csv("household_power_consumption.txt", sep=";", colClasses=c("character", "character", rep("numeric",7)),na="?")

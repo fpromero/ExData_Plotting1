@@ -1,3 +1,8 @@
+#### Plot 2 of Course Project 1 for the Coursera course "Exploratory Data Analysis"
+#### Date: January 11, 2014
+#### Author: fpromero (paskualf)
+
+
 # setup messages
 Sys.setlocale("LC_TIME", "English")
 
